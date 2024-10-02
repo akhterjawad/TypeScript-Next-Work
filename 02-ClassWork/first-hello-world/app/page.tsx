@@ -1,5 +1,5 @@
 import Image from "next/image";
-import ImageMain from "../download.jpeg";
+import ImageMain from "./download.jpeg";
 import React from 'react';
 
 export default function Home() {
